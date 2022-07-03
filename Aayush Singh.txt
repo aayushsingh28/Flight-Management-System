@@ -1,0 +1,23 @@
+TICKET INFORMATION:
+
+Name: Aayush Singh
+Phone: 919876543210
+Address: Rohini,Delhi
+Passport Number: 12345
+Origin: DELHI
+Destination: BEIJING
+Food: Non Vegetarian
+Number of Seats: 2
+Class: Business
+Date of departure: 05072022
+Time: 4.00 PM
+Ticket: HF51
+Bill(in Indian rupees): 103794/-
+
+STATUS CONFIRMED
+
+Pick'n Drop: YES
+
+Pickup Location: ohini
+Drop Off: DELHI Airport
+Fare: 300/-
